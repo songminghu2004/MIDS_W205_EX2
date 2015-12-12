@@ -1,4 +1,4 @@
-tep-by-step instructions: 
+step-by-step instructions: 
 
 1. make sure that the Postgres database "Tcount" has been created
 
